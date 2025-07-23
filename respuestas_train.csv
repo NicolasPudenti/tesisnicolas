@@ -1,0 +1,321 @@
+respuesta,label,representante
+"me gustó la propuesta, agendemos algo",positiva,Donatelo
+No,negativa,Raphael
+no es conmigo,negativa,Donatelo
+"suena interesante, podemos hablar esta semana",positiva,Donatelo
+"sí, reunámonos",positiva,Raphael
+me interesa,positiva,Miguelangelo
+"me gustó la propuesta, agendemos algo.",positiva,Raphael
+por el momento no!,negativa,Raphael
+"suena interesante, podemos hablar esta semana",positiva,Donatelo
+"puede ser útil, pero no es prioridad ahora!.",neutral,Donatelo
+lo reviso y te aviso,neutral,Donatelo
+estamos en medio de otra implementación,neutral,Donatelo
+n lo necesitamos ahora,negativa,Miguelangelo
+estoy disponible para una llamada,positiva,Donatelo
+Estoy intersado en avanzar con una demo,positiva,Leonardo
+no es conmigo,negativa,Donatelo
+Tal vez más adelante en el año.,neutral,Leonardo
+estoy disponible para una llamada,positiva,Raphael
+estamos en medio de otra implementación!,neutral,Donatelo
+Tal vez mas adelante en el año.!,neutral,Raphael
+No.,negativa,Raphael
+no,negativa,Donatelo
+estoy interesado en avanzar con una demo,positiva,Leonardo
+estamos evaluando internamente!,neutral,Raphael
+ya trabajamos con alguien más!,negativa,Raphael
+me interesa.,positiva,Donatelo
+por el momento no.,negativa,Raphael
+n me interesa,negativa,Leonardo
+"sí, reunámonos",positiva,Raphael
+estamos bien así.,negativa,Raphael
+NO GRACIAS,negativa,Donatelo
+ya tenemos proveedor!,negativa,Miguelangelo
+Tal vez más adelante en el año.,neutral,Miguelangelo
+"me gustó la propuesta, agendemos algo",positiva,Miguelangelo
+dejemoslo para el Q4,neutral,Raphael
+"sí, reunámonos",positiva,Raphael
+no es conmigo,negativa,Miguelangelo
+por ahora n tengo visibilidad,neutral,Miguelangelo
+no es conmigo,negativa,Raphael
+estamos en medio de otra implementación!,neutral,Raphael
+por ahora no tengo visibilidad,neutral,Miguelangelo
+"me gustó la propuesta, agendemos algo",positiva,Leonardo
+"ME GUSTÓ LA PROPUESTA, AGENDEMOS ALGO",positiva,Raphael
+estamos bien así.,negativa,Miguelangelo
+dejemoslo para el Q4.!,neutral,Miguelangelo
+"me gustó la propuesta, agendemos algo",positiva,Miguelangelo
+no lo necesitamos ahora,negativa,Leonardo
+compartime más información,positiva,Raphael
+contactame más adelante,neutral,Miguelangelo
+no,negativa,Leonardo
+estamos evaluando internamente,neutral,Miguelangelo
+compartime más información,positiva,Donatelo
+contactame más adelante.,neutral,Miguelangelo
+POR AHORA NO TENGO VISIBILIDAD,neutral,Donatelo
+estamos en medio de otra implementación..,neutral,Donatelo
+YA TENEMOS PROVEEDOR,negativa,Raphael
+me interesa,positiva,Leonardo
+n me interesa,negativa,Miguelangelo
+no lo necesitamos ahora,negativa,Raphael
+No.,negativa,Miguelangelo
+no grcias,negativa,Leonardo
+"me gustó la propuesta, agendemos algo.",positiva,Miguelangelo
+por el momento no,negativa,Leonardo
+estamos evaluando internamente,neutral,Raphael
+"sí, reunámonos",positiva,Leonardo
+cuando podrían hacer una demo?,positiva,Donatelo
+por ahora n tengo visibilidad,neutral,Miguelangelo
+aun no hay proyecto,neutral,Raphael
+ESTOY INTERESADO EN AVANZAR CON UNA DEMO,positiva,Raphael
+no me interesa.,negativa,Leonardo
+NO LO NECESITAMOS AHORA,negativa,Raphael
+no me interesa,negativa,Raphael
+"sí, reunámonos",positiva,Donatelo
+compartime más información,positiva,Leonardo
+aun no hay proyecto,neutral,Donatelo
+"GRACIAS, PERO NO ME INTERESA EL SERVICIO POR AHORA",negativa,Miguelangelo
+por ahora n tengo visibilidad!,neutral,Leonardo
+"sí, reunámonos",positiva,Miguelangelo
+NO,negativa,Leonardo
+contactame más adelante,neutral,Miguelangelo
+NO GRACIAS!,negativa,Donatelo
+"esto podría servirnos, cuentame más",positiva,Raphael
+estamos bien así,negativa,Donatelo
+No!,negativa,Miguelangelo
+Estoy interesado en avanzar con una demo,positiva,Miguelangelo
+cuando podrían hacer una demo?!,positiva,Leonardo
+estamos evaluando internamente,neutral,Leonardo
+ya trabajamos con alguien más,negativa,Raphael
+ESTAMOS BIEN ASÍ,negativa,Donatelo
+Estoy interesado en avanzar con una demo!,positiva,Miguelangelo
+cuando podrían hacer una demo?,positiva,Donatelo
+"Gracias, pero no me interesa el servicio por ahora",negativa,Miguelangelo
+"ESTO PODRÍA SERVIRNOS, CONTAME MÁS",positiva,Donatelo
+ESTAMOS EVALUANDO INTERNAMENTE,neutral,Donatelo
+estamos bien así,negativa,Miguelangelo
+dejemoslo para el q4,neutral,Donatelo
+"me gustó la propuesta, agendemos algo",positiva,Leonardo
+no lo necesitamos ahora.,negativa,Miguelangelo
+aun no hay proyecto,neutral,Donatelo
+me interesa,positiva,Leonardo
+ya trabajamos con alguien más,negativa,Raphael
+"suena interesante, podemos hablar esta semana",positiva,Raphael
+por el momento no,negativa,Leonardo
+NO GRACIAS,negativa,Raphael
+"suena interesante, podemos hablar esta semana.",positiva,Miguelangelo
+"suena interesante, podemos hablar esta semana.",positiva,Donatelo
+n es conmigo,negativa,Raphael
+"suena interesante, podemos hablar esta semana",positiva,Raphael
+ya tenemos proveedor,negativa,Miguelangelo
+aun no hay proyecto!,neutral,Leonardo
+"suena interesante, podemos hablar esta semana.",positiva,Donatelo
+compartime más información!,positiva,Donatelo
+aun no hay proyecto.,neutral,Leonardo
+"suena interesante, podemos hablar esta semana",positiva,Donatelo
+estamos en medio de otra implementación,neutral,Miguelangelo
+dejemoslo para el Q4,neutral,Leonardo
+NO LO NECESITAMOS AHORA,negativa,Raphael
+pasame info y lo veo con el equipo,neutral,Donatelo
+"suena interesante, podemos hablar esta semana.",positiva,Miguelangelo
+compartime más información!,positiva,Leonardo
+no es conmigo,negativa,Donatelo
+n me interesa!,negativa,Raphael
+no me interesa,negativa,Leonardo
+"puede ser útil, pero no es prioridad ahora",neutral,Leonardo
+pasame info y lo veo con el equipo!,neutral,Leonardo
+NO,negativa,Leonardo
+"SÍ, REUNAMONOS",positiva,Donatelo
+"esto podría servirnos, cuentame más",positiva,Donatelo
+no lo necesitamos ahora.,negativa,Raphael
+"sí, kiero conocer más",positiva,Raphael
+estamos evaluando internamente.,neutral,Donatelo
+"SUENA INTERESANTE, PODEMOS HABLAR ESTA SEMANA",positiva,Leonardo
+contactame mas adelante.,neutral,Leonardo
+pasame info y lo veo con el equipo!,neutral,Leonardo
+compartime más información,positiva,Donatelo
+no me interesa,negativa,Leonardo
+YA TRABAJAMOS CON ALGUIEN MAS,negativa,Donatelo
+me interesa,positiva,Raphael
+n me interesa.,negativa,Raphael
+cuando podrían hacer una demo?!,positiva,Miguelangelo
+por ahora no tengo visibilidad.,neutral,Raphael
+ya trabajamos con alguien más!,negativa,Miguelangelo
+ESTAMOS EN MEDIO DE OTRA IMPLEMENTACIÓN,neutral,Raphael
+"esto podría servirnos, contame más!",positiva,Donatelo
+compartime mas información!,positiva,Leonardo
+Estoy interesado en avanzar con una demo,positiva,Raphael
+Estoy intersado en avanzar con una demo!,positiva,Miguelangelo
+ya trabajamos con alguien más,negativa,Miguelangelo
+por el momento no,negativa,Leonardo
+por el momento no.,negativa,Raphael
+me interesa!,positiva,Miguelangelo
+no es conmigo,negativa,Leonardo
+NO.,negativa,Raphael
+Estoy interesado en avanzar con una demo...,positiva,Miguelangelo
+me interesa,positiva,Donatelo
+cuando podrían hacer una demo?.,positiva,Leonardo
+"SÍ, QUIERO CONOCER MÁS..",positiva,Donatelo
+"GRACIAS, PERO NO ME INTERESA EL SERVICIO POR AHORA",negativa,Leonardo
+"suena interesante, podemos hablar esta semana",positiva,Donatelo
+me interesa,positiva,Donatelo
+NO ES CONMIGO,negativa,Raphael
+"suena interesante, podemos hablar esta semana.",positiva,Miguelangelo
+POR EL MOMENTO NO,negativa,Miguelangelo
+"sí, reunámonos",positiva,Raphael
+ya trabajamos con alguien más,negativa,Miguelangelo
+ya tenemos proveedor!,negativa,Miguelangelo
+"suena interesante, podemos hablar esta semana.",positiva,Miguelangelo
+compartime más información.,positiva,Donatelo
+"me gustó la propuesta, agendemos algo.",positiva,Donatelo
+no lo necesitamos ahora,negativa,Leonardo
+estamos bien así,negativa,Leonardo
+"sí, kiero conocer mas",positiva,Raphael
+"gracias, pero no me interesa el servicio por ahora",negativa,Miguelangelo
+por ahora no tengo visibilidad,neutral,Miguelangelo
+"esto podría servirnos, contame más",positiva,Miguelangelo
+me interesa,positiva,Donatelo
+YA TENEMOS PROVEEDOR,negativa,Leonardo
+no me interesa,negativa,Raphael
+"puede ser útil, pero no es prioridad ahora",neutral,Raphael
+cuando podrían hacer una demo?,positiva,Miguelangelo
+me interesa,positiva,Miguelangelo
+"esto podría servirnos, contame mas",positiva,Donatelo
+cuando podrían hacer una demo?,positiva,Raphael
+estamos bien así.,negativa,Leonardo
+por ahora no tengo visibilidad,neutral,Raphael
+"me gustó la propuesta, agendemos algo.",positiva,Miguelangelo
+Tal vez mas adelante en el año.,neutral,Donatelo
+ya tenemos proveedor,negativa,Miguelangelo
+ya tenemos proveedor.,negativa,Leonardo
+"me gustó la propuesta, agendemos algo",positiva,Raphael
+tal vez más adelante en el año.,neutral,Donatelo
+por el momento no,negativa,Leonardo
+ya trabajamos con alguien más,negativa,Leonardo
+estamos evaluando internamente,neutral,Leonardo
+CONTACTAME MÁS ADELANTE,neutral,Donatelo
+"esto podría servirnos, contame más",positiva,Leonardo
+estamos bien así,negativa,Miguelangelo
+no me interesa,negativa,Leonardo
+No.,negativa,Miguelangelo
+n me interesa,negativa,Raphael
+estamos bien así.!,negativa,Miguelangelo
+aun no hay proyecto,neutral,Donatelo
+NO.,negativa,Miguelangelo
+no me interesa,negativa,Miguelangelo
+ESTOY DISPONIBLE PARA UNA LLAMADA,positiva,Donatelo
+lo reviso y te aviso,neutral,Leonardo
+"Gracias, pero no me interesa el servicio por ahora",negativa,Raphael
+por el momento no!,negativa,Raphael
+n lo necesitamos ahora!,negativa,Miguelangelo
+no me interesa,negativa,Donatelo
+pasame info y lo veo con el equipo,neutral,Leonardo
+"sí, reunamonos",positiva,Raphael
+no es conmigo.,negativa,Donatelo
+por el momento no,negativa,Leonardo
+no lo necesitamos ahora,negativa,Leonardo
+estoy disponible para una llamada.,positiva,Miguelangelo
+pasame info y lo veo con el equipo,neutral,Donatelo
+aun no hay proyecto!,neutral,Raphael
+cuando podrían hacer una demo?.,positiva,Donatelo
+estamos evaluando internamente,neutral,Miguelangelo
+CUANDO PODRÍAN HACER UNA DEMO?,positiva,Donatelo
+"suena interesante, podemos hablar esta semana",positiva,Donatelo
+lo reviso y te aviso,neutral,Leonardo
+pasame info y lo veo con el equipo,neutral,Donatelo
+lo reviso y te aviso.,neutral,Leonardo
+por ahora no tengo visibilidad!.,neutral,Miguelangelo
+NO ME INTERESA,negativa,Donatelo
+"me gustó la propuesta, agendemos algo!",positiva,Miguelangelo
+ESTAMOS EN MEDIO DE OTRA IMPLEMENTACIÓN,neutral,Donatelo
+ESTAMOS EVALUANDO INTERNAMENTE,neutral,Donatelo
+estoy disponible para una llamada,positiva,Raphael
+por el momento no!,negativa,Miguelangelo
+no me interesa.!,negativa,Raphael
+ya tenemos proveedor,negativa,Raphael
+no es conmigo,negativa,Donatelo
+"Gracias, pero no me interesa el servicio por ahora",negativa,Leonardo
+"sí, kiero conocer mas",positiva,Donatelo
+"esto podría servirnos, contame más.",positiva,Miguelangelo
+"suena interesante, podemos hablar esta semana",positiva,Leonardo
+aun n hay proyecto,neutral,Raphael
+"sí, kiero conocer más",positiva,Leonardo
+"PUEDE SER ÚTIL, PERO NO ES PRIORIDAD AHORA",neutral,Miguelangelo
+"sí, reunámonos.",positiva,Leonardo
+"suena interesante, podemos hablar esta semana",positiva,Donatelo
+YA TRABAJAMOS CON ALGUIEN MÁS.,negativa,Leonardo
+"ME GUSTÓ LA PROPUESTA, AGENDEMOS ALGO",positiva,Leonardo
+"sí, reunámonos",positiva,Miguelangelo
+compartime mas información.,positiva,Donatelo
+POR EL MOMENTO NO,negativa,Miguelangelo
+"suena interesante, podemos hablar esta semana",positiva,Raphael
+no me interesa!,negativa,Miguelangelo
+compartime más información!,positiva,Raphael
+"esto podría servirnos, contame más",positiva,Leonardo
+cuando podrían hacer una demo?.,positiva,Miguelangelo
+no es conmigo,negativa,Raphael
+no grcias!,negativa,Miguelangelo
+"gracias, pero no me interesa el servicio por ahora",negativa,Donatelo
+"me gustó la propuesta, agendemos algo",positiva,Miguelangelo
+estoy interesado en avanzar con una demo,positiva,Miguelangelo
+"esto podría servirnos, contame mas",positiva,Leonardo
+por el momento no,negativa,Leonardo
+"me gustó la propuesta, agendemos algo",positiva,Leonardo
+ESTOY DISPONIBLE PARA UNA LLAMADA,positiva,Leonardo
+"sí, quiero conocer más",positiva,Leonardo
+por ahora no tengo visibilidad,neutral,Leonardo
+por el momento no.,negativa,Donatelo
+compartime mas información,positiva,Donatelo
+Tal vez mas adelante en el año..,neutral,Miguelangelo
+ya trabajamos con alguien más.,negativa,Miguelangelo
+"me gustó la propuesta, agendemos algo",positiva,Raphael
+por el momento no.,negativa,Donatelo
+aun no hay proyecto.,neutral,Donatelo
+por ahora no tengo visibilidad,neutral,Donatelo
+estoy disponible para una llamada,positiva,Miguelangelo
+"sí, kiero conocer más",positiva,Donatelo
+YA TENEMOS PROVEEDOR,negativa,Miguelangelo
+no me interesa!,negativa,Donatelo
+estamos bien así,negativa,Miguelangelo
+estamos en medio de otra implementación,neutral,Donatelo
+n gracias,negativa,Donatelo
+"SÍ, REUNÁMONOS",positiva,Leonardo
+por el momento no.,negativa,Miguelangelo
+por ahora no tengo visibilidad,neutral,Leonardo
+compartime más información,positiva,Leonardo
+estamos en medio de otra implementación.,neutral,Leonardo
+aun n hay proyecto,neutral,Miguelangelo
+"sí, quiero conocer más!",positiva,Leonardo
+YA TENEMOS PROVEEDOR!,negativa,Donatelo
+"suena interesante, podemos hablar esta semana",positiva,Raphael
+"me gustó la propuesta, agendemos algo.",positiva,Donatelo
+NO,negativa,Donatelo
+compartime más información!!,positiva,Raphael
+ya tenemos proveedor,negativa,Raphael
+por ahora no tengo visibilidad,neutral,Leonardo
+"puede ser útil, pero n es prioridad ahora",neutral,Raphael
+"puede ser útil, pero n es prioridad ahora",neutral,Miguelangelo
+NO LO NECESITAMOS AHORA,negativa,Donatelo
+dejemoslo para el Q4,neutral,Raphael
+"sí, quiero conocer más",positiva,Miguelangelo
+estamos evaluando internamente,neutral,Miguelangelo
+YA TRABAJAMOS CON ALGUIEN MÁS!,negativa,Raphael
+"SÍ, QUIERO CONOCER MÁS",positiva,Donatelo
+lo reviso y te aviso!,neutral,Raphael
+POR EL MOMENTO NO,negativa,Donatelo
+no lo necesitamos ahora,negativa,Miguelangelo
+no me interesa,negativa,Miguelangelo
+por el momento no,negativa,Donatelo
+no es conmigo,negativa,Leonardo
+ESTOY INTERESADO EN AVANZAR CON UNA DEMO,positiva,Miguelangelo
+no es conmigo,negativa,Donatelo
+"Gracias, pero no me interesa el servicio por ahora",negativa,Miguelangelo
+"esto podría servirnos, contame más",positiva,Leonardo
+dejemoslo para el Q4,neutral,Raphael
+Tal vez más adelante en el año.!.,neutral,Miguelangelo
+estoy disponible para una llamada!,positiva,Raphael
+n lo necesitamos ahora,negativa,Leonardo
+"sí, reunámonos",positiva,Donatelo
+lo reviso y te aviso.,neutral,Leonardo
+estamos en medio de otra implementación,neutral,Leonardo
+estamos evaluando internamente,neutral,Raphael
